@@ -1,0 +1,24 @@
+{
+  "name": "dynamic-mcp-server",
+  "version": "0.0.1",
+  "description": "a simple dynamic MCP Server built with TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rozek/dynamic-mcp-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rozek/dynamic-mcp-server/issues"
+  },
+  "homepage": "https://github.com/rozek/dynamic-mcp-server#readme",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.11.4",
+    "zod": "^3.24.4"
+  }
+}
